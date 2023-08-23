@@ -3,7 +3,6 @@ import Aboutme from '../json/aboutme.json';
 
 export const DisenosPage = () => {
     let designs = Object.values(Aboutme.designs);
-    console.log(designs);
     return (
         <div>
             <div className="container p-4 light" style={{ background: '#131313' }}>

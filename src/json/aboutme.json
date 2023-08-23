@@ -49,15 +49,15 @@
     "education":{
         "0":{
             "title":"Bachiller",
-            "site":"Coorporación Educativa Ocupacional CEO"
+            "site":"Centro Estudiantil Ocupacional CEO"
         },
         "1":{
             "title":"Programación y Sistemas",
-            "site":"Coorporación Educativa Ocupacional CEO"
+            "site":"Centro Estudiantil Ocupacional CEO"
         },
         "2":{
             "title":"Diseñador Grafico",
-            "site":"Coorporación Educativa Ocupacional CEO"
+            "site":"Centro Estudiantil Ocupacional CEO"
         },
         "3":{
             "title":"Cisco CCNA ROUTING & SWITCHING",
@@ -79,8 +79,9 @@
             "company":"UXSISTEMAS",
             "time":"2022 - 2023",
             "functions":{
-                "0" : "Realización de interfaces y conexiones a la API.",
-                "1" : "Maquetados en Wordpress y Bootstrap."
+                "0" : "Maquetación de interfaces con conexiones a las API's.",
+                "1" : "Realización de sistemas personalizados.",
+                "2" : "Trabajos en Wordpress y Bootstrap"
             }
         },
         "1":{
@@ -88,8 +89,9 @@
             "company":"INTERCOD",
             "time":"2020 - 2022",
             "functions":{
-                "0" : "API MIKROTIK, PHP, MYSQL.",
-                "1" : "Instalación de redes ISP."
+                "0" : "Sistemas para la administración de redes ISP.",
+                "1" : "Bases de datos con MySQL y conectadas con PHP.",
+                "2" : "Automatización con la API de MIKROTIK."
             }
         },
         "2":{
@@ -97,8 +99,9 @@
             "company":"QKIERE",
             "time":"2020",
             "functions":{
-                "0" : "Sitio web de domicilios tipo amazon.",
-                "1" : "Administrador de la base de datos."
+                "0" : "Responsable de la interfaz realizada desde 0.",
+                "1" : "Sitio web de domicilios.",
+                "2" : "Administrador de la base de datos."
             }
         },
         "3":{
@@ -106,8 +109,9 @@
             "company":"PROAUDIO AUTOSPA",
             "time":"2018 - 2019",
             "functions":{
-                "0" : "Responsable de redes sociales y branding de la empresa.",
-                "1" : "Logo y publicaciones de la cuenta."
+                "0" : "Administrador de redes sociales.",
+                "1" : "Branding de la empresa.",
+                "2" : "Logo y publicaciones."
             }
         }
     },

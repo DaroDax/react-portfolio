@@ -14,7 +14,7 @@ export const ResumenPage = () => {
                 <div className="row">
 
                     <div className="col-md-6 col-12 name">
-                        <div className='m-3'><img src="img/nbd-logo.jpg" alt="NBD-logo" className='nbd-logo' /></div>
+                        <div className='m-3 logo-container'><img src="img/nbd-logo.jpg" alt="NBD-logo" className='nbd-logo' /></div>
                         <div className="nombre"><h1 className='h1 fw-bold'>Nicolay Barrientos</h1></div>
                         <div className="lenguajes d-flex my-3">
                             <div><i className="h3 fa-brands fa-html5"></i></div>
@@ -69,7 +69,8 @@ export const ResumenPage = () => {
                                                 <h4 className='h6 text-secondary fw-bold text-uppercase'>{experience.company}, {experience.time}</h4>
                                                 <ul>
                                                     <li>{experience.functions[0]}</li>
-                                                    <li>{experience.functions[1]}</li>
+                                                    <li className='py-2'>{experience.functions[1]}</li>
+                                                    <li>{experience.functions[2]}</li>
 
                                                 </ul>
                                             </div>

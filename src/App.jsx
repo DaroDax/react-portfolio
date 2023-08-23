@@ -1,3 +1,4 @@
+import React from 'react'
 import { AppRouter } from "./router/AppRouter";
 import { Footer } from "./Footer";
 import './index.css';
